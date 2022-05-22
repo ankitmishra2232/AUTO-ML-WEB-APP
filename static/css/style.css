@@ -1,0 +1,62 @@
+/* font-family: 'ubuntu', sans-serif;*/
+/*make haeder image Responsive*/
+
+.back-image{
+    background-size: cover;
+    background-position: centre centre;
+    background-repeat:no-repeat;
+    min-height:70vh; 
+    margin-top:74px;
+    
+}
+.navbar-brand{
+    font-family: 'ubuntu', sans-serif;
+    font-size: 2em;
+    font-weight:bold;
+   
+}
+.nav-link{
+    font-size: 20px;
+}
+.st{
+    font-size: 24px;
+    }
+
+a{
+    color:#DC3545;
+} 
+
+a.hover{
+    color:#E994A2;
+}
+
+.navbar{
+    background-color: #05f7f3;
+
+}
+
+.du
+{
+    background-repeat: no-repeat;
+    background-image: url(../pics/bckgrnd.jpg);
+    background-size: 100% 100%;
+    color:#424242;
+
+}
+
+#dov{
+    font-family: 'ubuntu', sans-serif;
+    color:black;
+    text-shadow: #424242;
+    font-size: 48px;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+.lal{
+    color: red;
+}
+
+#welcome{
+    color:whitesmoke;
+    margin-top: 150px;
+}
